@@ -1,0 +1,127 @@
+[
+  {
+    "course": "rechnerkommunikation-preparation-guide",
+    "documents": [
+      {
+        "section": "Before Each Semester",
+        "question": "What should be done before the semester begins?",
+        "text": [
+          "Reserve the I7 CIP room (tell Stephanie).",
+          "Check the expected number of students that will enroll.",
+          "Plan the number of tutors and time slots based on expected student count.",
+          "Contact students to join as tutors, starting with former tutors.",
+          "Email previous year students based on RK grades and notify Erika for paperwork.",
+          "Create StudOn content for the RK semester including Parallelgruppen and Vierergruppen.",
+          "Use previous year examples as templates (e.g., SS24).",
+          "Adjust Parallelgruppe registration via StudOn: Übungen → Übungsbereich → Anmeldung zu den Übungen.",
+          "Edit the Zeitplan to reflect Feiertage and Vorlesungsfrei Tage.",
+          "Schedule and email tutors about the first Zoom meeting, using DFN Terminplaner.",
+          "Edit the RK_0_Org file in the lectures folder.",
+          "Request StudOn access from I7admin for RK lectures.",
+          "Create rkXYint, rkXY, rkXYabgabe email addresses (deprecated from RK25 onwards).",
+          "Set correct sender/receiver access for mailing lists."
+        ]
+      },
+      {
+        "section": "Beginning of the Semester",
+        "question": "What needs to be prepared at the beginning of the semester?",
+        "text": [
+          "Attend tutor meeting (usually Monday); assign slots and gather Benutzer IDs.",
+          "Fill and submit Zeiterfassung-Formular monthly.",
+          "Insert weekly tutor meetings and own slots into SoGo calendar.",
+          "Attend the lecture and introduce exercises, encourage registration on Campo for both exams and exercises.",
+          "Provide tutors access to exercise folder.",
+          "Ensure whiteboard markers and erasers are available.",
+          "Test room cables/projector/HDMI connection.",
+          "Find suitable date for weekly tutor meeting.",
+          "Add tutors as course tutors on StudOn.",
+          "Upload Zeitplan on StudOn for students.",
+          "Print room schedule from Campo and hang in front of the respective room.",
+          "Check lecture slides for updates and upload to StudOn if changed.",
+          "Use the Excel sheet from SVN for homework evaluations if needed.",
+          "Send tutors the Zeiterfassung form to track their time.",
+          "Provide tutors with exercise videos as refreshers.",
+          "Check availability of lecture videos for students (at end or with buffer)."
+        ]
+      },
+      {
+        "section": "Near the End of the Semester",
+        "question": "What should be done toward the end of the semester?",
+        "text": [
+          "Invite tutors to the yearly Lehrstuhlgrillen event."
+        ]
+      },
+      {
+        "section": "After the Semester",
+        "question": "What actions are necessary after the semester ends?",
+        "text": [
+          "Collect Zeiterfassung forms from tutors.",
+          "Ask Peter to create and share two Overleaf .tex files (exam and solution).",
+          "Export student status from StudOn and upload to Campo.",
+          "Ensure no 'pending' status, and notify students via email for confirmation.",
+          "Announce Fragestunde date on StudOn (typically 1-2 weeks before the exam).",
+          "Determine how many students registered for the exam to plan hall and supervision.",
+          "Check availability of enough paper cartons/sheets for the exams.",
+          "Verify toner levels for printing via printer screen or online portal.",
+          "Get exam approval via email from the professor before printing."
+        ]
+      },
+      {
+        "section": "Task 2.3 Management",
+        "question": "What is required to manage task 2.3 correctly?",
+        "text": [
+          "Change Email and Hinweis date in Aufgabe 2.3 sheet.",
+          "Ensure rkXYabgabe email address is active; test by sending email.",
+          "Only the course manager receives emails to rkXYabgabe.",
+          "Configure Thunderbird filter to automatically sort these emails.",
+          "Manually check missed emails in case students misuse the 'To' field.",
+          "Publish Zwischenfeedback Aufgabe 2.3 grades on Friday evening before Monday deadline on Forum—Übungen.",
+          "Use prior year's email as a reference."
+        ]
+      },
+      {
+        "section": "Exam Preparation",
+        "question": "How is the exam prepared and managed?",
+        "text": [
+          "Collect the following documents from Erika: 31502-Übung, Platznummernliste, Prüfungsniederschrift.",
+          "Print and distribute Platznummernliste to exam supervisors.",
+          "Use Notenliste and Ergebnisse files to insert grades and status.",
+          "Prepare Exam Instructions, Aushang, and needed forms.",
+          "Email itwiss.int asking colleagues to help with corrections.",
+          "Print correction documents and graphs as needed.",
+          "Book Room 04.137 for at least 3 days for correction sessions.",
+          "Provide calculators, red pens, pencils for correction staff.",
+          "Explain concept of FolgeFehler before corrections begin."
+        ]
+      },
+      {
+        "section": "Klausureinsicht Scheduling",
+        "question": "How is RK Klausureinsicht organized?",
+        "text": [
+          "Scheduled for 10.10.2024 at Room 04.137 across 6 slots:",
+          "Slot1: 09:30–10:00, Slot2: 10:00–10:30, Slot3: 10:30–11:00, Slot4: 11:00–11:30, Slot5: 14:00–14:30, Slot6: 14:30–15:00.",
+          "Students must email to register, including name and Matrikelnummer.",
+          "Encourage correction participants to be present on-site or available."
+        ]
+      },
+      {
+        "section": "Exam Statistics",
+        "question": "What are the pass/fail statistics for different thresholds?",
+        "text": [
+          "At 40/100: Average Grade 3.01, 85.06% passed, 23/154 failed.",
+          "At 45/100: Average Grade 3.39, 70.79% passed, 45/154 failed.",
+          "At 50/100: Average Grade 3.69, 61.04% passed, 60/154 failed.",
+          "Recommendation to use 40/100 as the threshold."
+        ]
+      },
+      {
+        "section": "Helpful Resources",
+        "question": "What resources are suggested for support?",
+        "text": [
+          "https://www.arndt-bruenner.de/mathe/scripts/normalverteilung1.htm#binvert",
+          "https://www2.tkn.tu-berlin.de/teaching/rn/animations/gbn_sr/"
+        ]
+      }
+    ]
+  }
+]
